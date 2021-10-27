@@ -1,0 +1,10 @@
+Mike	isA	Person
+Mike	likes	LiverpoolFC
+Mike	bornIn	Liverpool
+Mike	worksFor	Acme
+Mike	friendWith	George
+George	worksFor	Acme
+George	isA	Person
+LiverpoolFC	basedIn	Liverpool
+LiverpoolFC	isA	FootballTeam
+Liverpool	isA	City

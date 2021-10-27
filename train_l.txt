@@ -1,0 +1,3 @@
+Mike	friendWith	George
+Mike	bornIn	Liverpool
+LiverpoolFC	isA	FootballTeam
